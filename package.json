@@ -41,7 +41,7 @@
   "devDependencies": {
     "@changesets/cli": "^2.16.0",
     "@types/prettier": "^2.4.1",
-    "ava": "^4.0.0-alpha.2",
+    "ava": "^5.1.0",
     "eslint": "^8.0.0",
     "eslint-plugin-ava": "^13.0.0",
     "eslint-plugin-node": "^11.1.0",
